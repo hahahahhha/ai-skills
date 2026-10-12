@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文讲解与翻译"
+  short_description: "先讲透论文，再每批逐节中英对照翻译五节"
+  default_prompt: "Use $paper-explainer-zh to explain this paper in Chinese and translate the first five sections with English originals."
